@@ -1,0 +1,24 @@
+Parameter,Recommended values
+a_lc,6.4794
+Eg_Gamma,0.235
+a(Gamma),0.32
+b(Gamma),170
+Eg_Chi,0.63
+Eg_L,0.93
+Delta_so,0.81
+m_e*(Gamma),0.0135
+m_DOS*(L),0.25
+gamma_1,34.8
+gamma_2,15.5
+gamma_3,16.5
+m_so*,0.11
+E_P,23.3
+F,-0.23
+VBO,0.0
+a_c,-6.94
+a_v,-0.36
+b,-2.0
+d,-4.7
+c_11,684.7
+c_12,373.5
+c_44,311.1
