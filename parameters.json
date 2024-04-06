@@ -34,7 +34,9 @@
     },
     "AlInSb": {
         "Eg_Gamma": 0.43,
-        "Delta_so": 0.25
+        "Delta_so": 0.25,
+        "component_1": "AlSb",
+        "component_2": "InSb"
     },
     "AlSb": {
         "a_lc": 6.1355,
@@ -114,7 +116,9 @@
         "E_P": -1.48,
         "F": 1.77,
         "VBO": -0.38,
-        "a_c": 2.61
+        "a_c": 2.61,
+        "component_1": "GaAs",
+        "component_2": "InAs"
     },
     "InAs": {
         "a_lc": 6.0583,
